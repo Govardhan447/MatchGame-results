@@ -1,0 +1,22 @@
+.tab-btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  margin-right: 15px;
+  font-size: 30px;
+  font-family: roboto;
+  color: #ffffff;
+  cursor: pointer;
+}
+.active {
+  color: #fec653;
+  font-size: 30px;
+  font-family: roboto;
+  text-decoration: underline;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
